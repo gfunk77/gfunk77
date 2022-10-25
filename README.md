@@ -51,7 +51,7 @@ I have been a freelance orchestra musician and music educator for a long time. I
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gfunk77&theme=monokai)]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gfunk77&theme=monokai)](https://github.com/gfunk77/gfunk77/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfunk77&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
