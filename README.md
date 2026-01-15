@@ -23,7 +23,7 @@
 
 ### :octopus: About Me : 
 
-I began coding as a hobby learning HTML, CSS, and JavaScript and quickly decided that I wanted to learn more and transition into an exciting new career in tech. Currently, I am a software engineer at PNC building automation test suites using Python/Appium/Saucelabs for the PNC mobile app. Previously, I was a frontend developer with BNY building a component library with Angular for the OneView online banking website in addition to building the Client360 mobile app. In my free time I love working on data science projects utilizing Python's data science ecosystem. I am a certified Python Associate Programmer (PCAP).
+I am a software engineer at PNC building automation test suites using Python/Appium/Saucelabs for the PNC mobile app. Previously, I was a frontend developer with BNY building a component library with Angular for the OneView online banking website in addition to building the Client360 mobile app. In my free time I love working on data science projects utilizing Python's data science ecosystem. I am a certified Python Associate Programmer (PCAP).
 
 I have been a freelance orchestra musician and music educator for a long time. I played my first paying gig when I was 16 years old and since then have been fortunate to perform with symphony orchestras all over the country and abroad. In addition to performing I have worked as a music educator and orchestra director for both public and independent schools as well as at the university level. Connecting with audiences and reaching students really starts with making meaningful connections with the people you are working with. Both aspects of my career have allowed me to hone my skills as a leader and collaborator.
 
