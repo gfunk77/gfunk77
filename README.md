@@ -23,7 +23,7 @@
 
 ### :octopus: About Me : 
 
-I began coding as a hobby learning HTML, CSS, and JavaScript and quickly decided that I wanted to learn more and transition into an exciting new career in tech. Currently, I am a frontend developer at BNY Mellon. I work with Angular all day long. In my free time I love building MEAN stack apps (Mongo, Express, Angular, and Node) as well as cross platform mobile apps with Ionic and Capacitor.
+I began coding as a hobby learning HTML, CSS, and JavaScript and quickly decided that I wanted to learn more and transition into an exciting new career in tech. Currently, I am a software engineer at PNC building automation test suites using Python/Appium/Saucelabs for the PNC mobile app. Previously, I was a frontend developer with BNY building a component library with Angular for the OneView online banking website in addition to building the Client360 mobile app. In my free time I love working on data science projects utilizing Python's data science ecosystem. I am a certified Python Associate Programmer (PCAP).
 
 I have been a freelance orchestra musician and music educator for a long time. I played my first paying gig when I was 16 years old and since then have been fortunate to perform with symphony orchestras all over the country and abroad. In addition to performing I have worked as a music educator and orchestra director for both public and independent schools as well as at the university level. Connecting with audiences and reaching students really starts with making meaningful connections with the people you are working with. Both aspects of my career have allowed me to hone my skills as a leader and collaborator.
 
@@ -34,6 +34,7 @@ I have been a freelance orchestra musician and music educator for a long time. I
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS"  width="40" height="40"/>&nbsp;
@@ -44,6 +45,7 @@ I have been a freelance orchestra musician and music educator for a long time. I
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="IntelliJ" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
